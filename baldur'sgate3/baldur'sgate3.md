@@ -21,6 +21,8 @@ However, I have a disappointment to its dynamic of story, I feel it peak in the 
 
 Now, we continue to the gameplay, which for me it's positive and negative. For some reasons, I prefer to walk use **"WASD"** rather than click to move, but I understand that it's a CRPG and it's how most of the games will use. At first I feel a little weird to move the camera using **"WASD"**, but after a while I become a master to its move. And the advantage to use free / fly camera you can say, you can spot hidden places, which I think it's a key feature to its exploration to find a hidden place (this is the thing that I like the most, to enter forbidden places).
 
+<YoutubeVideo code="5MZAU8-vt54" title="Baldur's Gate 3 Dialogue" aspect={16/9}/>
+
 The combat I think it will be something that yes or no for some people, fyi, I never touch a game with this type of combat, and I was a bit skeptic, but then I surprise I can enjoy the combat that much, I put balance for the difficulty and I feel in balance difficulty there're too much miss attack, magic, etc., but I can't complain more becuase this is my first time into a CRPG. And for you that fear you won't understand the combat mechanics, relax you'll be doing fine as you progress in the game.
 
 ## Graphic
