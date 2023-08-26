@@ -3,6 +3,8 @@ title: "Baldur's Gate 3"
 desc: "Baldur's Gate 3 review. An RPG, turn - base and story game."
 publishedAt: "2023-08-25"
 ---
+# Baldur's Gate 3
+
 I would say that **Baldur's Gate 3** brings RPG game to its peak glory, 10/10 score that I give, so many things to explore, full of content, and rich story that combine all make it a masterpiece of an RPG game.
 
 Hello, I'm Devin, I'll give you a review for **Baldur's Gate 3**, if you are new here, I will review a game from my perspective also I will give you recommendation based on a few categories that I will tell in the end of this review. Shall we begin?
@@ -41,7 +43,7 @@ Next, the graphic, I don't know what to say and how to say, **it's incredible!**
 
 We come to a conclusion, there's no doubt to give this game a 10/10 because its quality that I rarely find on games that have been released currently, but the question, is this game for you? I will help you to answer.
 
-### This game for you if:
+### This game is for you if:
 
 - you are a casual gamer that want to try a new experience.
 - you don't hate turn - base games, for sure!
@@ -49,7 +51,7 @@ We come to a conclusion, there's no doubt to give this game a 10/10 because its 
 - you like to try something new, a hype game (?)
 
 
-### This game not for you if:
+### This game is not for you if:
 
 - you don't like turn - base games.
 - willing to learn things to its mechanics.
