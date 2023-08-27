@@ -52,8 +52,8 @@ We come to a conclusion, there's no doubt to give this game a 10/10 because its 
 ### This game is not for you if:
 
 - you don't like turn - base games.
-- willing to learn things to its mechanics.
+- not willing to learn things to its mechanics.
 - you are too lazy to follow its story (don't waste your money because 70% of time is dialogues)
-- you have enough money :), becuase it's quite expensive.
+- you don't have enough money :), becuase it's quite expensive.
 
 
