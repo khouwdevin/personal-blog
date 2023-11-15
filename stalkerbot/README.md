@@ -1,100 +1,81 @@
-# Stalker Bot
+<CustomText as="h1" textAlign="center" children="Stalker bot"/>
 
-> This is Stalker Bot.
+## What is Stalker Bot
 
-## Stalker
+<GithubImage path="stalkerbot/public/stalkerbot.png" height="200px"/>
 
-<h3 align="center">Stalker</h3>
+### History
 
-<div align="center">
-  <img src="https://github.com/khouwdevin/stalker-discord/blob/master/images/spy.png" height="300px"/>
-</div>
+**Stalker** Bot is Discord bot that I made for my personal bot at first to update people Instagram, Youtube etc. that's why I named it **Stalker**, because it will always be watching you. But later till today I think **Stalker** need a shift of functionality, and I decide that **Stalker** will be a server manager, that will help to manage server. Currently, **Stalker** has simple commands and will continue to be developed until it matchs my need and maybe people needs.
 
-<h3 align="center">Stalker's Presence</h3>
+### For who
 
-<div align="center">
-  <img src="https://github.com/khouwdevin/stalker-discord/blob/master/images/stalker-presence.png"/>
-</div>
+**Stalker** is available for everyone, you can request it [here](https://khouwdevin.com/stalkerbot). But, do you need **Stalker**? I can elaborate some reasons if you need it or not, everything that **Stalker** can do I will list them below. So, the reasons you need a simple bot, that can do polling, create Discord event using slash command (maybe in the future **Stalker** will help you to manage meeting in Discord using event). Or maybe you need to take notes for absences, it will help you summarize all and create report (this feature will be developed if it really help and it is needed).
 
-## How to Use Stalker Bot
+<CustomText as="h3" textAlign="center" children="Stalker's Presence"/>
 
-### 1. Clone This Repository
+<GithubImage path="stalkerbot/public/stalker-presence.png" height="600px"/>
 
-```sh
-git clone https://github.com/khouwdevin/stalker-discord.git
+## Stalker's Commands
+
+> Stalker has two types of command, slash commands and prefix commands.
+
+1. Stalker's Slash Command
+
+```
+/afk: to announce your afk status
+/clear: to clear messages
+/decode: to decode your secret code
+/embed: to create embed message
+/event: to add discord schedule event
+/ping: to test bot ping
+/poll: to create poll
 ```
 
-### 2. Put The Code to Host Server / Host It Locally
+2. Stalker's Prefix Command
 
-#### Local hosting
+```
+$channelconfig [channelId]
+If you want to change Stalker's default channel text (send the channel id).\r
+example => $channelconfig 12344556677
+aliases: ["cfg"]
 
-```node
-npm install
-npm run build
-npm run start
+$checkstatus
+If you want to check Stalker's config
+example => $checkstatus
+aliases: ["cs"]
+
+$detectpresence
+If you want to disable or enable detect presence.
+example => $detectpresence false
+aliases: ["dp"]
+
+$greet
+Stalker will greet you!
+example => $greet
+aliases: ["g"]
+
+$notify
+If you want to disable or enable Stalker's online notif
+example => $notify false
+aliases: ["n"]
 ```
 
-#### Host Server
+## How to get Stalker
 
-> if the host support automatically deploy from github, then just let the provider access your repository then it's done.
+> You can get Stalker through request, you can request at [khouwdevin.com/stalkerbot](https://khouwdevin.com/stalkerbot).
 
-> if they don't have then follow this instruction.
+### Attention
 
-1. Apply this commands.
-```node
-npm install
-npm run build
-```
+It will be requiring you to login with Discord, don't worry I won't steal you identity, I just need to get **your email** that register in your Discord account and **your profile** on Discord. Why I collect your email? Because I need email as a identifier when accepting your request for **Stalker Bot**.
 
-2. Upload the /dist/ and the /node_modules/ folders.
-3. Set node start to index.js inside host server setting.
+### Steps
 
-#### Set Up Environment Variables
+> For you who confuse, I will write the flow of requesting **Stalker** Bot.
 
-> (local hosting) put the environment variables inside working directory and name the file to .env <br/>
-> (using hosting provider) put the environment variables inside host's setting for environment variables
-
-```env
-TOKEN=(Discord bot token)
-CLIENT_ID=(Discord client id)
-PREFIX_COMMAND=$ #default prefix is $
-MONGO_URI=(Mongo DB url) #if you don't want to use mongo then let it empty
-MONGO_DATABASE_NAME=(Mongo Database name) #if you don't want to use mongo then let it empty
-STALKER_DATABASE=(DB name in Mongo DB) #if you don't want to use mongo then let it empty
-LAVALINK_PASSWORD=(Lavalink password)
-LAVALINK_PORT=(Lavalink port)
-LAVALINK_HOST=(Lavalink host or domain that used by Lavalink server)
-LAVALINK_IDENTIFIER=(Fill it same as lavalink host)
-SPOTIFY_CLIENTID=(Spotify client id) #if you don't want to use spotify then let it empty
-SPOTIFY_CLIENT_SECRET=(Spotify client secret) #if you don't want to use mongo then let it empty
-```
-
-> you can get Spotify client id and client secret from https://developer.spotify.com
-
-### 4. Set up Lavalink
-
-#### Host Locally
-
-1. clone this repository
-```sh
-git clone https://github.com/khouwdevin/lavalink-template.git
-```
-
-2. change the application.yml
-
-3. run docker
-
-#### Host Remote
-
-1. clone this repository
-```sh
-git clone https://github.com/khouwdevin/lavalink-template.git
-```
-
-2. change the application.yml
-
-3. let the hosting provider clone and buld it for you
-
-### 5. Finishing
-
-> after all done, then Stalker Bot should be appear and can be used!
+1. Login using Discord
+2. Request **Stalker** Bot
+3. Receive an email that contain **Stalker** Bot invite link (from devin@khouwdevin.com)
+4. Authorizing and selecting server that **Stalker** Bot will come in
+5. It will redirect you to my website again to authorize your eligibility for invite link
+6. You will see a page that shows you the bot invite is succed or failed
