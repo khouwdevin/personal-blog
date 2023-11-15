@@ -14,7 +14,7 @@
 
 <CustomText as="h3" textAlign="center" children="Stalker's Presence"/>
 
-<GithubImage path="stalkerbot/public/stalker-presence.png" height="600px"/>
+<GithubImage path="stalkerbot/public/stalkerbot-presence.png" height="600px"/>
 
 ## Stalker's Commands
 
