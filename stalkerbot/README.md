@@ -67,7 +67,7 @@ aliases: ["n"]
 
 ### Attention
 
-It will be requiring you to login with Discord, don't worry I won't steal you identity, I just need to get **your email** that register in your Discord account and **your profile** on Discord. Why I collect your email? Because I need email as a identifier when accepting your request for **Stalker Bot**.
+It will be requiring you to login with **your Discord** in **identify and email** scopes. Why I need you to login with Discord? Because I need **your account** as identifier when accepting your request for **Stalker Bot** and in the process of approving your request.
 
 ### Steps
 
