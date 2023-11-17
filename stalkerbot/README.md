@@ -80,4 +80,4 @@ It will be requiring you to login with **a Discord account** in scopes of **iden
 5. It will redirect you to my website and it will be authorizing your eligibility for the invite link
 6. You will see a page that shows you the bot is inviting successfully or fail
 
-> If an error occured, please contact me to request a new invite link through [message](https://khouwdevin.com/message) or [my contacts](https://khouwdevin.com/#contact)
+> If an error occurred, please contact me to request a new invite link through [message](https://khouwdevin.com/message) or [my contacts](https://khouwdevin.com/#contact)
