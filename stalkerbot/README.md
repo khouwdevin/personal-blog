@@ -86,4 +86,4 @@ It will be requiring you to login with **a Discord account** in scopes of **iden
 
 > If you still confuse how to request **Stalker** Bot, you can follow through this video.
 
-<DriveVideo code="15R7hfcU0ZwINnLWlEMgH5kBepi0Hd1aj" title="How to request Stalker Bot" width="300px"/>
+<GithubVideo path="stalkerbot" title="How to request Stalker Bot" width="300px"/>
