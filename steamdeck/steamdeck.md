@@ -12,7 +12,7 @@ It's enough to talk about Steam Deck on the surface, let's dive a little bit, to
 
 ### What do I expect at first ?
 
-<GithubImage path="steamdeck/public/1.jpg" alt="Steam Deck"/>
+<GithubImage path="steamdeck/public/1.jpg" alt="Steam Deck" width="full"/>
 
 Honestly, it was not much, I like to watch people benchmarking a hardware and in my opinion it is something that we can measure how powerful is a hardware and how much the hardware is supporting the improvement of technology. I decided to play light games and will play heavy games in terms of performance on my laptop and it turns out I have different games install on both devices, I installed games that console like games on Steam Deck and mostly competitive games on my laptop. And it is really fun to play games withouth a need to sit down in front of my laptop and can move to different places in the house to play games.
 
@@ -22,25 +22,25 @@ Other thing I expected to be good was the panel, I know that OLED panels are gre
 
 ### Peformance
 
-<GithubImage path="steamdeck/public/2.jpg" alt="Steam Deck Cyberpunk"/>
+<GithubImage path="steamdeck/public/2.jpg" alt="Steam Deck Cyberpunk" width="full"/>
 
 It is what you see on Youtube is what you get. The deck isn't that powerful so you can put on ultra on everything, especially on newer games. But the thing is as other reviewers said I and they are happy about the performance. It's very important for developer who wants make their games work properly on deck keep the attention to optimize the games, if the game is optimized I'm sure it will be run great on the deck.
 
 Suprisingly, it's very suprising to see emulators run great on Steam Deck and don't expect to have better performance than PCs can do, what games aren't running great on PCs it will be the same if we use deck. For games like PS2, PSP, DS and other early consoles gen it will run great. Tips for you, better to buy micro SD at your desire but I recomend at least 128 GB to have, it will has a capacity of 20 games and more for the emulators, put the emulators apps and games on the micro SD so you have a full capacity on main storage.
 
-<GithubImage path="steamdeck/public/3.jpg" alt="Steam Deck Divinity Original Sin 2"/>
+<GithubImage path="steamdeck/public/3.jpg" alt="Steam Deck Divinity Original Sin 2" width="full"/>
 
 If you curious about the performance deeper, I will tell you a few games that I play on deck also emulators too. Currently, I play Divinity Original Sins 2 on med - high setting also limit the fps to 45 fps, it has hiccups for heavy scenes that have a lot NPC like in town, but it won't drop that much so you will uncomfortable to play, it is a great experience I have. For older games I installed Persona 4 Golden, NFS Heat, Yakuza Kiwami, Ni No Kuni, Skyrim and other games it runs great and for heavy 3D games it will draw 20W or more and it causes the battery to drop faster but that's okay, because you buy to play on the go right? And I'm sure that you will have a place to charge it and if you go for a while I think you wouldn't need a charger because play for 3 hours of Skyrim or Persona 4 Golden will be enough right?
 
 ### Mods
 
-<GithubImage path="steamdeck/public/4.jpg" alt="Steam Deck JSAUX"/>
+<GithubImage path="steamdeck/public/4.jpg" alt="Steam Deck JSAUX" width="full"/>
 
 Cases, who doesn't like cases, thing to protect your device. I have the 512 GB model for the deck and I put non reflective tempred glass also put JSAUX case, because the main travel case is too big and it won't comfortably fit on small bag and it has different story if you use the JSAUX case it has both sides cover so you needn't to worry about the protection that you have, it is secure, chill bro! The main scenario that I had in my head was, it would be perfect to bring the deck when you travel, you bring the charger and JSAUX case on your small bag and put the main case in the suitcase, because if you must spend a very long time in the plane you will need charger so you won't run out of battery and hopefully you have electricity to be used.
 
 ### Mini PC
 
-<GithubImage path="steamdeck/public/5.jpg" alt="Steam Deck as PC"/>
+<GithubImage path="steamdeck/public/5.jpg" alt="Steam Deck as PC" width="full"/>
 
 As I said earlier Steam Deck capable to run desktop mode and I treat the deck as my PC. Recently I installed Discord and Spotify, don't you want to play and listen to music at the same time, what a dream! And you can because it supports for you to install apps that you usually use on PC! Just a few tutorial to watch and knowing how put the apps into dock mode and you are ready to go, I've tested Spotify and it works like a charm, very good and pleasent! But one thing, Valve if you read this, please fix on dock mode when you stack a few apps and want to use mouse, it still buggy and feel like it mix with other app so you can't use mouse features easilly, but I believe they will fix it soon.
 
