@@ -86,4 +86,4 @@ It will be requiring you to login with **a Discord account** in scopes of **iden
 
 > If you still confuse how to request **Stalker** Bot, you can follow through this video.
 
-<StorageVideo path="https://firebasestorage.googleapis.com/v0/b/personal-blog-d5f41.appspot.com/o/How%20to%20invite%20Stalker%20Bot.mp4?alt=media&token=b610d35a-1bf6-429f-9d05-423bfe287d48" title="How to invite Stalker Bot" width="300px"/>
+<StorageVideo path="https://utfs.io/f/6c214afb-a961-4326-9002-56eca4322625-72ex1r.mp4" title="How to invite Stalker Bot" width="300px"/>
