@@ -2,7 +2,9 @@
 title: "Star Wars Jedi: Survivor"
 desc: "Star Wars: Jedi Survivor. Star Wars game tells about Cal Kestis journey as jedi."
 publishedAt: "2024-01-21"
+updatedAt: ""
 ---
+
 So, so, so, Star Wars Jedi: Survivor is the second sequel from Respawn Entertaiment. I have played the first game Star Wars Jedi: Fallen Order and it's pretty good and it gets improvement on the second sequel. I didn't play it on its release because some issues that happened when the game was released, but for current state I would say they did a really good job to make it playable and I will talk about it further more later.
 
 ## Story

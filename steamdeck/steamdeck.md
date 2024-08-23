@@ -2,6 +2,7 @@
 title: "Steam Deck"
 desc: "Steam Deck review, as a mini PC and handheld game device, Steam Deck has a great value!"
 publishedAt: "2024-02-16"
+updatedAt: ""
 ---
 
 I'm a person that think maybe I will buy second generation Steam Deck because I was concern about the performance, but then one day I thought that it would be nice if I had a Steam Deck, feel like excited to try something new, it stayed for a few days in my head and finally I bought it about two weeks ago. I didn't expect much but the curiosity flooded and wanted to know why people is excited about this handheld era.
