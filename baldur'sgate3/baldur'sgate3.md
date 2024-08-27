@@ -9,7 +9,7 @@ I would say that **Baldur's Gate 3** brings RPG game to its peak glory, 10/10 sc
 
 Hello, I'm Devin, I'll give you a review for **Baldur's Gate 3**, if you are new here, I will review a game from my perspective also I will give you recommendation based on a few categories that I will tell in the end of this review. Shall we begin?
 
-## Story
+# Story
 
 <GithubImage path="baldur'sgate3/public/1.png" alt="Llia"/>
 
@@ -17,7 +17,7 @@ From its story, it'll bring you to a lore which you are infected by a tadpole fr
 
 However, I have a disappointment to its dynamic of the story, I feel it already peak in the middle of the game, which is the second act (no more explanation, you can play it by yourself and tell me if it's true :) ). And for the rest, no else thing that **Baldur's Gate 3** can give except the perfection to its story deliver.
 
-## Gameplay
+# Gameplay
 
 <YoutubeVideo code="5MZAU8-vt54" title="Baldur's Gate 3 Dialogue" aspect={16/9}/>
 
@@ -27,7 +27,7 @@ Now, we continue to the gameplay, which for me it's positive and negative. For s
 
 The combat, I think it will be something that yes or no for some people, fyi, I never touch a game with this type of combat, and I was a bit skeptic, but then I surprised I can enjoy the combat that much, I put balance for the difficulty and I feel in balance difficulty there're too many miss attack, magic, etc., but I can't complain more becuase this is my first time into a CRPG. And for you that fear you won't understand the combat mechanics, relax you'll be doing just fine as you progress in the game.
 
-## Graphic
+# Graphic
 
 <GithubImage path="baldur'sgate3/public/2.png" alt="The team"/>
 
@@ -39,11 +39,11 @@ Next, the graphic, I don't know what to say and how to say, **it's incredible!**
 
 <GithubImage path="baldur'sgate3/public/5.png" alt="Shadowheart Close Up"/>
 
-## Conclusion
+# Conclusion
 
 We come to a conclusion, there's no doubt to give this game a 10/10 because its quality that I rarely find on games that have been released currently, but the question, is this game for you? I will help you to answer.
 
-### This game is for you if:
+## This game is for you if:
 
 - you are a casual gamer that want to try a new experience.
 - you don't hate turn - base games, for sure!
@@ -51,7 +51,7 @@ We come to a conclusion, there's no doubt to give this game a 10/10 because its 
 - you like to try something new, a hype game (?)
 
 
-### This game is not for you if:
+## This game is not for you if:
 
 - you don't like turn - base games.
 - not willing to learn things to its mechanics.

@@ -7,13 +7,13 @@ updatedAt: ""
 
 So, so, so, Star Wars Jedi: Survivor is the second sequel from Respawn Entertaiment. I have played the first game Star Wars Jedi: Fallen Order and it's pretty good and it gets improvement on the second sequel. I didn't play it on its release because some issues that happened when the game was released, but for current state I would say they did a really good job to make it playable and I will talk about it further more later.
 
-## Story
+# Story
 
 <GithubImage path="jedisurvivor/public/1.png" alt="Tanalor"/>
 
 The story will continue from the first sequel, where now Cal Kestis should survive, and I will tell a little at the beginning of the story that Cal now has team that will help him to fight the empire. It is a pretty good story and they did a great job to the story, I won't complaint about its story because I think if it is intended to be a gameplay focus but I found that the story is pretty good.
 
-## Gameplay
+# Gameplay
 
 It is a few improvement from the first sequel, now you have five stance to use and to match your playstyle. Personally, I use double-bladed and dual wield, for me those two stances are the most effective. For you who is curious I will explain the stances.
 
@@ -27,7 +27,7 @@ Other things that new in this sequel is now Cal can stop time, when you meet dif
 
 And small other thing like BD-1 ability to unlock path, Cal's grapling hook to help maneuver and so much more. And love this gameplay because it feel like a souls like game but on easier gameplay. I play on Jedi Knight difficulity and sometime it was easy and sometimes it was very hard but overall it was a good experience!
 
-## Graphics
+# Graphics
 
 I can't say anything than it is a gorgeous looking of landscape that has Star Wars characteristic, although it has only have a few planets but it's enough and each planets have its own scenery and I love it.
 
@@ -37,7 +37,7 @@ I can't say anything than it is a gorgeous looking of landscape that has Star Wa
 
 <GithubImage path="jedisurvivor/public/4.png" alt="Koboh at night"/>
 
-## Issues
+# Issues
 
 As what I have already said that Star Wars Jedi: Survivor has a few issues related to performance that I think Respawn Entertaiment already tried at their best to fix it, but the problems still exist.
 
@@ -49,11 +49,11 @@ Third one is weird and I'm asking why they didn't fix it, so at some time you ha
 
 For your information I'm using Legion 5i pro 2022 so it is capable to play but the game seems heavy to run and I had to use DLSS on performance so it can run at 50 - 80 fps.
 
-## Conclusion
+# Conclusion
 
 The conclusion is this game is good and can be better in terms of performance as I already said that the performance bother me a little to the experience that I got, but overall is good and worth to play.
 
-### This game is for you if:
+## This game is for you if:
 
 - you are a player of Star Wars Jedi.
 - you want to know where the story goes and have a decent PC or console.
@@ -61,7 +61,7 @@ The conclusion is this game is good and can be better in terms of performance as
 - you want to try become a young jedi that still improving over the time.
 
 
-### This game is not for you if:
+## This game is not for you if:
 
 - you don't have a decent PC or console.
 - haven't played the first sequel and want to know the story from the start.

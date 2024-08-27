@@ -11,7 +11,7 @@ The journey was started after I ordered it on marketplace, it felt like wasting 
 
 It's enough to talk about Steam Deck on the surface, let's dive a little bit, to give opinions from my perspective.
 
-### What do I expect at first ?
+# What do I expect at first ?
 
 <GithubImage path="steamdeck/public/1.jpg" alt="Steam Deck" width="full"/>
 
@@ -21,7 +21,7 @@ The second thing I didn't expect to have was the performance of the battery, I a
 
 Other thing that I expected to be good was the panel, I like the OLED panel that deck has, but I don't see any major different, maybe I'm used to see the AMOLED panel on my phone so it feels the same, but one thing you should remember OLED won't let you down, it's a great panel!
 
-### Peformance
+# Peformance
 
 <GithubImage path="steamdeck/public/2.jpg" alt="Steam Deck Cyberpunk" width="full"/>
 
@@ -33,18 +33,18 @@ It's very suprising to see emulators run great on Steam Deck, it has slightly pe
 
 If you curious about the performance deeper, I will tell you a few games that I play on deck and emulators. Currently, I play Divinity Original Sins 2 on med - high setting and I limit the fps to 45 fps, it has hiccups for heavy scenes that have a lot NPC like in town, but it won't drop that much and make you feel uncomfortable to play it. For older games I installed Persona 4 Golden, NFS Heat, Yakuza Kiwami, Ni No Kuni, Skyrim and other games, it runs perfectly fine. For heavy 3D games it will draw 20W or more and it will cause the battery to drop faster but that's okay, what you need is to bring charger and plug it whenever you can and so far the battery will last up to 4 hours for games like Persona 4 Golden and Skyrim, I think it would be enough and I'm happy about it.
 
-### Mods
+# Mods
 
 <GithubImage path="steamdeck/public/4.jpg" alt="Steam Deck JSAUX" width="full"/>
 
 Case, who doesn't like case, a thing to protect your device. I have the 512 GB model for the deck and I put non reflective tempered glass and use JSAUX case, because the main travel case is too big and it won't fit comfortably on small bag. It would be a different story if you use the JSAUX case, it has both sides cover so you needn't to worry. The main scenario that I had in my head was, it would be perfect to bring the deck when you travel, you could bring the charger and JSAUX case on your small bag and put the main case in your suitcase, because if you need to spend a very long time on the plane you could plug the deck so you won't run out of battery.
 
-### Mini PC
+# Mini PC
 
 <GithubImage path="steamdeck/public/5.jpg" alt="Steam Deck as PC" width="full"/>
 
 As I said earlier Steam Deck capable to run desktop mode and I treat the deck as my PC. I already installed Discord and Spotify, don't you want to play and listen to music at the same time, what a dream! And you can because it has apps store to install apps that you usually use on PC! Just a few tutorial to watch and knowing how put the apps into dock mode and you are ready to go, I've tested Spotify and it works like a charm! But one thing, Valve if you read this, please fix the dock mode! When you stack a few apps and want to use mouse function, I found the deck is still buggy and feel like it has a problem with stack apps so you can't use mouse function easilly, but I believe they will fix it soon.
 
-### Conclusion
+# Conclusion
 
 It was a great experience and will be a great experience in the future with the deck. It cost a quite expensive for me in Indonesia, but it is very worth it if you want to have a best experience with a handheld, I strongly suggest you to buy Steam Deck because it has dedicated OS that Valve will support at their best, and it's Valve what thing they can't do? They are the best and you will know if you choose Steam Deck, hopefully they will release an improvement Steam Deck in the future continuously. For me, the down side just like the unsupported games, lower performance from other handheld brand and unable to play games from PC Game Pass, that's all! It is all easily to be tolerance. At last, don't forget to use your main rig after bought Steam Deck, don't be like me, Bye!

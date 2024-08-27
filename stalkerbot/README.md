@@ -1,14 +1,14 @@
 <CustomText as="h1" textAlign="center" children="Stalker bot"/>
 
-## What is Stalker Bot
+# What is Stalker Bot
 
 <GithubImage path="stalkerbot/public/stalkerbot.png" height="200px"/>
 
-### History
+## History
 
 **Stalker** Bot is a Discord bot that I made for my personal bot at first, the main purpose of the bot was for updating people Instagram, Youtube etc. that's why I named it **Stalker**, because it will always be watching you. But later, I think **Stalker** need a shift of functionality, and I decide that **Stalker** will be a server manager, that will help you to manage server. Currently, **Stalker** has simple commands and will continue to be developed until it matchs the needs.
 
-### For who
+## For who
 
 **Stalker** is available for everyone, you can request it [here](https://khouwdevin.com/stalkerbot). But, do you need **Stalker**? I can elaborate the reasons if you need it or not, everything that **Stalker** can do I will list them below. So, the reasons are you need a simple bot, that can do polling, create Discord event using slash command (maybe in the future **Stalker** will help you to manage meeting in Discord using event). Or maybe you need to take notes for absences, it will help you summarize all and create report (this feature will be developed if the feature is needed).
 
@@ -16,7 +16,7 @@
 
 <GithubImage path="stalkerbot/public/stalkerbot-presence.png" height="600px"/>
 
-## Stalker's Commands
+# Stalker's Commands
 
 > Stalker has two types of command, slash commands and prefix commands.
 
@@ -61,15 +61,15 @@ example => $notify false
 aliases: ["n"]
 ```
 
-## How to get Stalker
+# How to get Stalker
 
 > You can get Stalker through a request, you can request at [khouwdevin.com/stalkerbot](https://khouwdevin.com/stalkerbot).
 
-### Attention
+## Attention
 
 It will be requiring you to login with **a Discord account** in scopes of **identify and email**. Why I need you to login with Discord? Because I need **Discord account** as identifier when accepting a request for **Stalker Bot** and in the process of approving a request.
 
-### Steps
+## Steps
 
 > For you who confuse, I will write down the flow of requesting **Stalker** Bot.
 
@@ -82,7 +82,7 @@ It will be requiring you to login with **a Discord account** in scopes of **iden
 
 > If an error occurred, please contact me to request a new invite link through [message](https://khouwdevin.com/message) or [my contacts](https://khouwdevin.com/#contact)
 
-### Tutorial Video
+## Tutorial Video
 
 > If you still confuse how to request **Stalker** Bot, you can follow through this video.
 
