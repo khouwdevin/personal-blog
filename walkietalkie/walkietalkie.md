@@ -4,9 +4,6 @@ desc: "How to create simple walkie talkie with Next js and Livekit."
 publishedAt: "2024-08-27"
 updatedAt: ""
 ---
-# Walkie Talkie
-
-
 
 This blog will guide you to build a walkie talkie web app with Next js, Chakra UI and Livekit.
 
@@ -165,7 +162,7 @@ const enableMic = async () => {
 }
 ```
 
-The last thing in page.tsx we have useEffects for subscribing to RoomEvent and also connect to room when user visit the page. For the first useEffect, it will connect user to the Livekit cloud and create room which in this occasion we will have just one room but it is possible for you to create multiple rooms if you want. If you see other services, they usually mute the mic at first, but I found issue with *localParticipant.setMicrophoneEnabled(false)*, it will not let you subscribe to other participants audio and makes you cannot hear any sound before you turn on your mic, so the solution is set it true first and then set it false.
+The last thing in page.tsx we have useEffects for subscribing to RoomEvent and also connect to room when user visit the page. For the first useEffect, it will connect user to the Livekit cloud and create room which in this occasion we will have just one room but it is possible for you to create multiple rooms if you want. If you see other services, they usually mute the mic at first, but I found issue with ```localParticipant.setMicrophoneEnabled(false)```, it will not let you subscribe to other participants audio and makes you cannot hear any sound before you turn on your mic, so the solution is set it true first and then set it false.
 
 ```jsx
 // app/page.tsx
@@ -465,7 +462,7 @@ export default function Page() {
 
 # API
 
-From the client side, we can do the next step to server side where we need to create API to get token for connecting to a room. All you need to do is creating folder */app/api* and */app/api/room*, also a file called route.ts in */app/api/room*. 
+From the client side, we can do the next step to server side where we need to create API to get token for connecting to a room. All you need to do is creating folder ```/app/api``` and ```/app/api/room```, also a file called route.ts in ```/app/api/room```. 
 
 ```ts
 // app/api/room/route.ts
