@@ -2,7 +2,7 @@
 title: "Walkie Talkie"
 desc: "How to create simple walkie talkie with Next js and Livekit."
 publishedAt: "2024-08-27"
-updatedAt: "2024-08-27"
+updatedAt: ""
 ---
 # Walkie Talkie
 
