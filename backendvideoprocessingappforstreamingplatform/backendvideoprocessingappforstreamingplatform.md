@@ -13,7 +13,7 @@ I will explain it furthermore with details and will provide the github repositor
 
 # Stack that I will use
 
-For this project I will use [Nest js](https://nestjs.com/), which it will up to you to use which frameworks and languages, but for the project I need to use js frameworks because I use [uploadthing](uploadthing.com) that currently just support js for its API. The video processing will be using [ffmpeg](https://www.ffmpeg.org/).
+For this project I will use [Nest js](https://nestjs.com/), which it will up to you to use which frameworks and languages, but for the project I need to use js frameworks because I use [uploadthing](https://uploadthing.com) that currently just support js for its API. The video processing will be using [ffmpeg](https://www.ffmpeg.org/).
 
 # Setting new project
 
@@ -28,7 +28,7 @@ nest new video-processing-backend
 
 If you are not really familiar with Nest js, that's okay, take your time, because at first I didn't really have a fast adaption to be able work directly with Nest js as it has a different type of syntax.
 
-Install ffmpeg using this command or for Windows users you can download it here <https://www.ffmpeg.org/>.
+Install ffmpeg using this command or for Windows users you can download it here https://www.ffmpeg.org/.
 
 ```powershell
 # Windows
