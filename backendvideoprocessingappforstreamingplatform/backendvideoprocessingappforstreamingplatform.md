@@ -28,7 +28,7 @@ nest new video-processing-backend
 
 If you are not really familiar with Nest js, that's okay, take your time, because at first I didn't really have a fast adaption to be able work directly with Nest js as it has a different type of syntax.
 
-Install ffmpeg using this command or for Windows users you can download it here https://www.ffmpeg.org/.
+Install ffmpeg using this command or for Windows users you can download it here [https://www.ffmpeg.org](https://www.ffmpeg.org).
 
 ```powershell
 # Windows
