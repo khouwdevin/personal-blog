@@ -1,11 +1,11 @@
 ---
 title: "Kingdom Come: Deliverance 2"
-desc: "Kingdom Come: Deliverance 2, story of Henry, son of the blacksmith, who search for revange for his parent."
-publishedAt: "2025-02-15"
+desc: "Kingdom Come: Deliverance 2, story of Henry, son of the blacksmith, who search for revenge for his parent."
+publishedAt: "2025-02-20"
 updatedAt: ""
 ---
 
-Ah, it is like just yesterday I played the first one and suddenly I got the second one, I was shocked when Warhorse Studio announced the sequel, I was happy to be able play again and continue Henry's story. It was back then when I played for the first time in 2021 I think, the story was good and the gameplay was fantastic, let's stop nostlagia and continue to Kingdom Come: Deliverance 2.
+Ah, it is like just yesterday I played the first one and suddenly I got the second one, I was shocked when Warhorse Studio announced the sequel, I was happy to be able play again and continue Henry's story. It was back then when I played for the first time in 2021 I think, the story was good and the gameplay was fantastic, let's stop nostalgia and continue to Kingdom Come: Deliverance 2.
 
 # Story
 
