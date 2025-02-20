@@ -33,19 +33,17 @@ Also, they added smithing, now we can make our own weapon from the recipe. It gi
 
 # Performance
 
-<GithubImage path="kingdomcomedeliverance2/public/4.png" alt="NPC behavior"/>
+<GithubImage path="kingdomcomedeliverance2/public/4.png" alt="Katherine"/>
 
 I am the person who pre ordered one month before, I think what could be bad, but then I watched Youtube videos about KCD and they said they expected that Warhorse will fix after release, but then surprise surprise, they did not even release the day one patch, the performance is stable and rarely have a spike, I was happy, knowing my machine is not longer a high end spec (I'm using 12700h and RTX 3070ti). I cap it on 55 fps using the built in vsync, I do not know why they provide at 55 fps not 60 fps but that is okay, I enjoy while playing it.
 
 What about Steam Deck, I always happy to know if the game can be played on Steam Deck and they gave a surprise again, I think it was one week before they released a video said the game got "playable" status on Steam Deck, made me think at that time, how light the game would be? And yes it is light and the performance is perfect compare to games that released recently.
 
-<GithubImage path="kingdomcomedeliverance2/public/5.png" alt="Katherine"/>
-
 The performance is great but it has drawback from the engine, I felt it too on the first sequel, that Cry Engine cannot handle a lot of NPC it will drop the fps quite far, and I got the validation too from Sony in The Lazy Monday, so far it only has a few battles that requires a lot of NPC but it does not really ruin your gameplay, they did a great job to the performance.
 
 # Issue
 
-<GithubImage path="kingdomcomedeliverance2/public/6.png" alt="Old bug"/>
+<GithubImage path="kingdomcomedeliverance2/public/5.png" alt="Old bug"/>
 
 I want to share the issues I found, especially for the mechanics and the bugs, it is not a deal for me that I needed to put efforts to sell items, the money that merchants have are very little, I do not know what happen, I often sold my items in Kuttenberg, it is a big city, but why the money they have is so little, I needed to wait one to two days to be able sell my items, it was annoying but it was not a big deal for me.
 
@@ -53,7 +51,7 @@ Beside the money, I found another that quite annoying about stuck, mostly it wil
 
 # Conclusion
 
-<GithubImage path="kingdomcomedeliverance2/public/7.png" alt="The end"/>
+<GithubImage path="kingdomcomedeliverance2/public/6.png" alt="The end"/>
 
 We come to conclusion, I love this game, so far this is the best game for 2025 and Warhorse becomes my favorite studio, I hope they will release high quality games in the future, with the fame they have know, they should get investment to make a great game. Also, they will release three DLCs in this year, I will wait that and I hope it will have a big DLC.
 
