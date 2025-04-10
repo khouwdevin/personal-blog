@@ -1,3 +1,13 @@
+---
+title: "A New Playground"
+desc: "Linux and servers are my new playground to explore and to create something interesting."
+publishedAt: "2025-04-10"
+updatedAt: ""
+---
+# A New Playground
+
+
+
 I have been learning Linux recently and it has been a pleasent journey for me to learn it, not only about Linux but VPS and things related to it which I will tell more through this blog.
 
 # How it started
