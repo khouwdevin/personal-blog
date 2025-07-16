@@ -2,7 +2,7 @@
 title: "Steam Deck"
 desc: "Steam Deck review, as a mini PC and handheld game device, Steam Deck has a great value!"
 publishedAt: "2024-02-16"
-updatedAt: ""
+updatedAt: "2025-07-16"
 ---
 
 I'm a person that think maybe I will buy second generation Steam Deck because I was concern about the performance, but then one day I thought that it would be nice if I had a Steam Deck, feel like excited to try something new, it stayed for a few days in my head and finally I bought it about two weeks ago. I didn't expect much but the curiosity flooded and wanted to know why people is excited about this handheld era.
@@ -13,7 +13,7 @@ It's enough to talk about Steam Deck on the surface, let's dive a little bit, to
 
 # What do I expect at first ?
 
-<GithubImage path="steamdeck/public/1.jpg" alt="Steam Deck" width="full"/>
+![Steamdeck](https://cdn.khouwdevin.com/blog/images/4675caff-3762-412d-95f8-b1a06a1b3c92)
 
 Honestly, it was not much, I like to watch people benchmarking a hardware and in my opinion it is something that we can measure how powerful a hardware is and how much the hardware is supporting the improvement of technology. I decided to play light games and will play heavy games on my laptop and it turns out I have different games install on both devices, I installed games that console like games on Steam Deck and mostly competitive games on my laptop. And it is really fun to play games without a need to sit down in front of a laptop and can move to different places in the house to play games.
 
@@ -23,27 +23,27 @@ Other thing that I expected to be good was the panel, I like the OLED panel that
 
 # Peformance
 
-<GithubImage path="steamdeck/public/2.jpg" alt="Steam Deck Cyberpunk" width="full"/>
+![Steamdeck Cyberpunk](https://cdn.khouwdevin.com/blog/images/21e0b774-23da-4015-8c3c-959c0a34ad7b)
 
 The deck isn't that powerful to put everything on ultra, especially on newer games. But the thing is as other reviewers said, I and they are happy for the performance. It's very important for developer who wants make their games work properly on deck to optimize their games, if the game is optimized I'm sure it will be run great on the deck.
 
-It's very suprising to see emulators run great on Steam Deck, it has slightly performance different between PC and deck, it can be tolerance by me so far. For games like PS2, PSP, DS and other early consoles gen it will run great. The tips from me is better to buy micro SD that you're desire but I recomend to buy at least 128 GB, it will has a capacity of 20 games or more for the emulators, don't forget to put the emulators apps and games on the micro SD so you have a full capacity on main storage for Steam games.
+It's very surprising to see emulators run great on Steam Deck, it has slightly performance different between PC and deck, it can be tolerance by me so far. For games like PS2, PSP, DS and other early consoles gen it will run great. The tips from me is better to buy micro SD that you're desire but I recommend to buy at least 128 GB, it will has a capacity of 20 games or more for the emulators, don't forget to put the emulators apps and games on the micro SD so you have a full capacity on main storage for Steam games.
 
-<GithubImage path="steamdeck/public/3.jpg" alt="Steam Deck Divinity Original Sin 2" width="full"/>
+![Steamdeck Divinity Original Sin 2](https://cdn.khouwdevin.com/blog/images/a2415a21-5a0c-4974-8f28-ff76ca9592de)
 
 If you curious about the performance deeper, I will tell you a few games that I play on deck and emulators. Currently, I play Divinity Original Sins 2 on med - high setting and I limit the fps to 45 fps, it has hiccups for heavy scenes that have a lot NPC like in town, but it won't drop that much and make you feel uncomfortable to play it. For older games I installed Persona 4 Golden, NFS Heat, Yakuza Kiwami, Ni No Kuni, Skyrim and other games, it runs perfectly fine. For heavy 3D games it will draw 20W or more and it will cause the battery to drop faster but that's okay, what you need is to bring charger and plug it whenever you can and so far the battery will last up to 4 hours for games like Persona 4 Golden and Skyrim, I think it would be enough and I'm happy about it.
 
 # Mods
 
-<GithubImage path="steamdeck/public/4.jpg" alt="Steam Deck JSAUX" width="full"/>
+![Steamdeck JSAUX](https://cdn.khouwdevin.com/blog/images/1bbc0247-7873-4ad4-96e7-c354d18a5b6d)
 
 Case, who doesn't like case, a thing to protect your device. I have the 512 GB model for the deck and I put non reflective tempered glass and use JSAUX case, because the main travel case is too big and it won't fit comfortably on small bag. It would be a different story if you use the JSAUX case, it has both sides cover so you needn't to worry. The main scenario that I had in my head was, it would be perfect to bring the deck when you travel, you could bring the charger and JSAUX case on your small bag and put the main case in your suitcase, because if you need to spend a very long time on the plane you could plug the deck so you won't run out of battery.
 
 # Mini PC
 
-<GithubImage path="steamdeck/public/5.jpg" alt="Steam Deck as PC" width="full"/>
+![Steamdeck as PC](https://cdn.khouwdevin.com/blog/images/e27751a6-ea38-4bb1-8d5c-516a0aa6ef3e)
 
-As I said earlier Steam Deck capable to run desktop mode and I treat the deck as my PC. I already installed Discord and Spotify, don't you want to play and listen to music at the same time, what a dream! And you can because it has apps store to install apps that you usually use on PC! Just a few tutorial to watch and knowing how put the apps into dock mode and you are ready to go, I've tested Spotify and it works like a charm! But one thing, Valve if you read this, please fix the dock mode! When you stack a few apps and want to use mouse function, I found the deck is still buggy and feel like it has a problem with stack apps so you can't use mouse function easilly, but I believe they will fix it soon.
+As I said earlier Steam Deck capable to run desktop mode and I treat the deck as my PC. I already installed Discord and Spotify, don't you want to play and listen to music at the same time, what a dream! And you can because it has apps store to install apps that you usually use on PC! Just a few tutorial to watch and knowing how put the apps into dock mode and you are ready to go, I've tested Spotify and it works like a charm! But one thing, Valve if you read this, please fix the dock mode! When you stack a few apps and want to use mouse function, I found the deck is still buggy and feel like it has a problem with stack apps so you can't use mouse function easily, but I believe they will fix it soon.
 
 # Conclusion
 

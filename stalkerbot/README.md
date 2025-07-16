@@ -2,7 +2,7 @@
 
 # What is Stalker Bot
 
-<GithubImage path="stalkerbot/public/stalkerbot.png" height="200px"/>
+<img alt="Stalker bot" src="https://cdn.khouwdevin.com/blog/images/d0b2aa11-bc9c-4150-be63-9121ed4ae851" height="200px"/>
 
 ## History
 
@@ -14,7 +14,7 @@
 
 <CustomText as="h3" textAlign="center" children="Stalker's Presence"/>
 
-<GithubImage path="stalkerbot/public/stalkerbot-presence.png" height="600px"/>
+<img alt="Stalker bot presence" src="https://cdn.khouwdevin.com/blog/images/6c8767fb-0c83-41a7-ab31-c27f8873a326" height="600px"/>
 
 # Stalker's Commands
 

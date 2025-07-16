@@ -2,7 +2,7 @@
 title: "Baldur's Gate 3"
 desc: "Baldur's Gate 3 review. An RPG, turn - base and story game."
 publishedAt: "2023-08-25"
-updatedAt: "2023-08-27"
+updatedAt: "2025-07-16"
 ---
 
 I would say that **Baldur's Gate 3** brings RPG game to its peak glory, 10/10 score that I give, so many things to explore, full of content, and rich story that combine all make it a masterpiece of an RPG game.
@@ -11,9 +11,9 @@ Hello, I'm Devin, I'll give you a review for **Baldur's Gate 3**, if you are new
 
 # Story
 
-<GithubImage path="baldur'sgate3/public/1.png" alt="Llia"/>
+![Llia](https://cdn.khouwdevin.com/blog/images/6f5f4da2-afcb-4f90-86cc-77843284b771)
 
-From its story, it'll bring you to a lore which you are infected by a tadpole from a mindflyer and you'll begin your journey to find a cure. Don't worry if you never play **Baldur's Gate**, personally this is my first time play **Baldur's Gate** and I can easily follow the story. For its story, I can say that they **(Larian Studio)** hired a genius story writter, it's a top notch story and it'll make you always curious to what happens next.
+From its story, it'll bring you to a lore which you are infected by a tadpole from a mindflyer and you'll begin your journey to find a cure. Don't worry if you never play **Baldur's Gate**, personally this is my first time play **Baldur's Gate** and I can easily follow the story. For its story, I can say that they **(Larian Studio)** hired a genius story writer, it's a top notch story and it'll make you always curious to what happens next.
 
 However, I have a disappointment to its dynamic of the story, I feel it already peak in the middle of the game, which is the second act (no more explanation, you can play it by yourself and tell me if it's true :) ). And for the rest, no else thing that **Baldur's Gate 3** can give except the perfection to its story deliver.
 
@@ -25,19 +25,19 @@ Now, we continue to the gameplay, which for me it's positive and negative. For s
 
 <YoutubeVideo code="LnM6H-NjSmw" title="Baldur's Gate 3 Gameplay" aspect={16/9}/>
 
-The combat, I think it will be something that yes or no for some people, fyi, I never touch a game with this type of combat, and I was a bit skeptic, but then I surprised I can enjoy the combat that much, I put balance for the difficulty and I feel in balance difficulty there're too many miss attack, magic, etc., but I can't complain more becuase this is my first time into a CRPG. And for you that fear you won't understand the combat mechanics, relax you'll be doing just fine as you progress in the game.
+The combat, I think it will be something that yes or no for some people, fyi, I never touch a game with this type of combat, and I was a bit skeptic, but then I surprised I can enjoy the combat that much, I put balance for the difficulty and I feel in balance difficulty there're too many miss attack, magic, etc., but I can't complain more because this is my first time into a CRPG. And for you that fear you won't understand the combat mechanics, relax you'll be doing just fine as you progress in the game.
 
 # Graphic
 
-<GithubImage path="baldur'sgate3/public/2.png" alt="The team"/>
+![The team](https://cdn.khouwdevin.com/blog/images/c5c87206-9f33-4150-bec9-0c5642da8498)
 
-Next, the graphic, I don't know what to say and how to say, **it's incredible!**, for now I can say it has a gorgeous graphic especially for the characters, if it's close enough you can see the character pores on their face, but unfortunelly, you will get a high quality models only in dialouges and I expect Larian will update photo mode, so we can capture a high quality from the characters, I will show you a few photos that I capture!
+Next, the graphic, I don't know what to say and how to say, **it's incredible!**, for now I can say it has a gorgeous graphic especially for the characters, if it's close enough you can see the character pores on their face, but unfortunately, you will get a high quality models only in dialogs and I expect Larian will update photo mode, so we can capture a high quality from the characters, I will show you a few photos that I capture!
 
-<GithubImage path="baldur'sgate3/public/3.png" alt="Shadowheart"/>
+![Shadowheart](https://cdn.khouwdevin.com/blog/images/e0bc9f57-9b10-4806-95ac-45ac459659a2)
 
-<GithubImage path="baldur'sgate3/public/4.png" alt="Llia in a Bar"/>
+![Llia in a bar](https://cdn.khouwdevin.com/blog/images/59e93420-9e38-4c0d-b817-827c66adf3f3)
 
-<GithubImage path="baldur'sgate3/public/5.png" alt="Shadowheart Close Up"/>
+![Shadowheart close up](https://cdn.khouwdevin.com/blog/images/fc18d93a-432c-43e6-89ec-baa00313a7ed)
 
 # Conclusion
 
@@ -47,7 +47,7 @@ We come to a conclusion, there's no doubt to give this game a 10/10 because its 
 
 - you are a casual gamer that want to try a new experience.
 - you don't hate turn - base games, for sure!
-- you like to read, listen and watch a heavy story, because **Baldur's Gate 3** has a lot of dialouges and documents.
+- you like to read, listen and watch a heavy story, because **Baldur's Gate 3** has a lot of dialogs and documents.
 - you like to try something new, a hype game (?)
 
 
@@ -55,7 +55,7 @@ We come to a conclusion, there's no doubt to give this game a 10/10 because its 
 
 - you don't like turn - base games.
 - not willing to learn things to its mechanics.
-- you are too lazy to follow its story (don't waste your money because 70% of time is dialogues)
-- you don't have enough money :), becuase it's quite expensive.
+- you are too lazy to follow its story (don't waste your money because 70% of time is dialogs)
+- you don't have enough money :), because it's quite expensive.
 
 

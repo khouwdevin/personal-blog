@@ -2,7 +2,7 @@
 title: "Walkie Talkie"
 desc: "How to create simple walkie talkie with Next js and Livekit."
 publishedAt: "2024-08-27"
-updatedAt: ""
+updatedAt: "2025-07-16"
 ---
 
 This blog will guide you to build a walkie talkie web app with Next js, Chakra UI and Livekit.
@@ -500,7 +500,7 @@ I am using crypto library to create a random username, but if you want to use an
 
 It all set, you can start deploy the app to Vercel or other services and then start using the app. 
 
-<GithubImage path="walkietalkie/public/walkie-talkie.png" alt="Walkie Talkie Page"/>
+![Walkie Talkie Page](https://cdn.khouwdevin.com/blog/images/e3c99b50-38bb-4958-9901-d92e3bff8248)
 
 The code will be available here on my Github [Walkie-Talkie](https://github.com/khouwdevin/walkie-talkie). I have two folders, the second one is for backend, it is basically the same as the api route, but I add more features like websocket to send messages, but it is not done yet, if you want me to finish the backend you can comment bellow and I will make a new blog about it.
 

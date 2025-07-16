@@ -2,7 +2,7 @@
 title: "A New Playground"
 desc: "Linux and servers are my new playground to explore and to create something interesting."
 publishedAt: "2025-04-10"
-updatedAt: ""
+updatedAt: "2025-07-16"
 ---
 # A New Playground
 
@@ -28,21 +28,21 @@ I have a few apps that I use constantly for developing apps and running apps, le
 
 > yazi is a damn good tool for surf on your file system, it will visualize the folder you have, navigating will feel easier and manage your files will feel more satisfying.
 
-<GithubImage path="anewplayground/public/image1.png" alt="yazi"/>
+![Yazi](https://cdn.khouwdevin.com/blog/images/768e574e-4d2f-4fd6-ac63-69d25440967c)
 
 ## Lazygit and Lazydokcer
 
 > lazygit and lazydocker are the ultimate tools for me, it will make your life easier and less stressful when making the app up and running, it is just simple, a terminal UI.
 
-<GithubImage path="anewplayground/public/image2.png" alt="lazygit"/>
+![Lazygit](https://cdn.khouwdevin.com/blog/images/2dd3731b-1ad6-4ea2-a245-696b5607c373)
 
-<GithubImage path="anewplayground/public/image3.png" alt="lazydocker"/>
+![Lazydocker](https://cdn.khouwdevin.com/blog/images/101357cd-332c-458a-a66f-5b0ae9b09058)
 
 ## Neovim
 
 > neovim, a tool that only Jedi programmer will use, it is not that scary apparently, it turns out easy to use too, and why university is not taught this to the students?
 
-<GithubImage path="anewplayground/public/image4.png" alt="neovim"/>
+![Neovim](https://cdn.khouwdevin.com/blog/images/e4125109-df0c-45f6-9817-1ebc5e95675a)
 
 # Next plan
 

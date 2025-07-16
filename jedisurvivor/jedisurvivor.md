@@ -2,14 +2,14 @@
 title: "Star Wars Jedi: Survivor"
 desc: "Star Wars: Jedi Survivor. Star Wars game tells about Cal Kestis journey as jedi."
 publishedAt: "2024-01-21"
-updatedAt: ""
+updatedAt: "2025-07-16"
 ---
 
-So, so, so, Star Wars Jedi: Survivor is the second sequel from Respawn Entertaiment. I have played the first game Star Wars Jedi: Fallen Order and it's pretty good and it gets improvement on the second sequel. I didn't play it on its release because some issues that happened when the game was released, but for current state I would say they did a really good job to make it playable and I will talk about it further more later.
+So, so, so, Star Wars Jedi: Survivor is the second sequel from Respawn Entertainment. I have played the first game Star Wars Jedi: Fallen Order and it's pretty good and it gets improvement on the second sequel. I didn't play it on its release because some issues that happened when the game was released, but for current state I would say they did a really good job to make it playable and I will talk about it further more later.
 
 # Story
 
-<GithubImage path="jedisurvivor/public/1.png" alt="Tanalor"/>
+![Tanalor](https://cdn.khouwdevin.com/blog/images/71b05a6d-b9f4-47dd-8b7c-b3d6e5e82185)
 
 The story will continue from the first sequel, where now Cal Kestis should survive, and I will tell a little at the beginning of the story that Cal now has team that will help him to fight the empire. It is a pretty good story and they did a great job to the story, I won't complaint about its story because I think if it is intended to be a gameplay focus but I found that the story is pretty good.
 
@@ -23,23 +23,23 @@ It is a few improvement from the first sequel, now you have five stance to use a
 4. Blaster: a single lightsaber with a blaster
 5. Crossguard: a heavy sword look like lightsaber
 
-Other things that new in this sequel is now Cal can stop time, when you meet difficult positition or difficult encounter and you need to think or repositition you can use this skill, I think it will the same as ultimate and it needs to be recharge by attacking or defending.
+Other things that new in this sequel is now Cal can stop time, when you meet difficult position or difficult encounter and you need to think or reposition you can use this skill, I think it will the same as ultimate and it needs to be recharge by attacking or defending.
 
-And small other thing like BD-1 ability to unlock path, Cal's grapling hook to help maneuver and so much more. And love this gameplay because it feel like a souls like game but on easier gameplay. I play on Jedi Knight difficulity and sometime it was easy and sometimes it was very hard but overall it was a good experience!
+And small other thing like BD-1 ability to unlock path, Cal's grappling hook to help maneuver and so much more. And love this gameplay because it feel like a souls like game but on easier gameplay. I play on Jedi Knight difficulty and sometime it was easy and sometimes it was very hard but overall it was a good experience!
 
 # Graphics
 
 I can't say anything than it is a gorgeous looking of landscape that has Star Wars characteristic, although it has only have a few planets but it's enough and each planets have its own scenery and I love it.
 
-<GithubImage path="jedisurvivor/public/2.png" alt="Koboh"/>
+![Koboh](https://cdn.khouwdevin.com/blog/images/2c5c0606-2a81-4c43-837a-c01701af7e07)
 
-<GithubImage path="jedisurvivor/public/3.png" alt="Plyoon's Saloon"/>
+![Plyoon's Saloon](https://cdn.khouwdevin.com/blog/images/1cefa179-b678-4c1c-bd40-8b3983b56bad)
 
-<GithubImage path="jedisurvivor/public/4.png" alt="Koboh at night"/>
+![Koboh at night](https://cdn.khouwdevin.com/blog/images/0a19262f-e2a8-4653-9e97-1618e5a48576) 
 
 # Issues
 
-As what I have already said that Star Wars Jedi: Survivor has a few issues related to performance that I think Respawn Entertaiment already tried at their best to fix it, but the problems still exist.
+As what I have already said that Star Wars Jedi: Survivor has a few issues related to performance that I think Respawn Entertainment already tried at their best to fix it, but the problems still exist.
 
 First thing is stutter, basic problem on Unreal Engine and as I remember Star Wars Jedi: Fallen Order has the same issue and they has the same problem on this sequel, but for me it's not a big issue and I still enjoy to play the game.
 
